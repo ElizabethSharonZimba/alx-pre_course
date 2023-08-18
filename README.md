@@ -1,2 +1,2 @@
-My first readme
-second readme
+Alx is awesome
+Do hard things
